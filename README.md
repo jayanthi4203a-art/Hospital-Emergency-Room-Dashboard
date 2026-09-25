@@ -34,6 +34,7 @@ The dataset used for this project is available for download here:
 ## 📈 Dashboard
 
 The interactive Excel dashboard summarizes the emergency room data through KPIs, charts, and visualizations, making it easier to identify patient trends and performance patterns.
+- <a href="https://github.com/jayanthi4203a-art/Hospital-Emergency-Room-Dashboard/blob/main/hf-1.png">Dashboard</a>
 
 
 
