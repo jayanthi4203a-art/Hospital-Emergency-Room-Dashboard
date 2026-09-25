@@ -29,7 +29,7 @@ The dashboard provides insights into:
 The dataset used for this project is available for download here:
 
 ##Dataset used
-- <a href=" https://github.com/jayanthi4203a-art/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv"> dataset </a>
+- <a href="https://github.com/jayanthi4203a-art/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv"> Dataset </a>
 
 ## 📈 Dashboard
 
