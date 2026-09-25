@@ -28,11 +28,14 @@ The dashboard provides insights into:
 
 The dataset used for this project is available for download here:
 
-[Download Hospital Emergency Room Dataset](<a https://github.com/jayanthi4203a-art/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv>View Dashboard</a>)
+##Dataset used
+- <a href=" https://github.com/jayanthi4203a-art/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv"> dataset </a>
 
 ## 📈 Dashboard
 
 The interactive Excel dashboard summarizes the emergency room data through KPIs, charts, and visualizations, making it easier to identify patient trends and performance patterns.
+
+
 
 ## 🎯 Skills Demonstrated
 
