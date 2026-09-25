@@ -28,7 +28,7 @@ The dashboard provides insights into:
 
 The dataset used for this project is available for download here:
 
-**[Download Hospital Emergency Room Dataset]()**
+[Download Hospital Emergency Room Dataset](<a https://github.com/jayanthi4203a-art/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv>View Dashboard</a>)
 
 ## 📈 Dashboard
 
