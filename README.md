@@ -1,37 +1,39 @@
 # Hospital-Emergency-Room-Dashboard
-## Project Objectives
-Analyze the number of patients visiting the emergency room,
-Track patient waiting time,
-Analyze admission and non-admission rates,
-Understand patient demographics,
-Monitor emergency room performance using KPIs,
-Present insights through an interactive Excel dashboard
+## 📌 About the Project
 
-🛠️ Tools & Technologies
-Microsoft Excel
-Data Cleaning
-Data Analysis
-Pivot Tables
-Pivot Charts
-Excel Functions
-Data Visualization
-Dashboard Design
+This project analyzes **Hospital Emergency Room patient data using Microsoft Excel**. The dashboard helps understand patient visits, waiting times, admission status, patient demographics, and overall emergency room performance.
 
-📊 Key KPIs
-Total Patients
-Average Waiting Time
-Admission Rate
-Patient Demographics
-Department/Referral Analysis
-Patient Flow
+## 🛠️ Tools Used
 
-📈 Dashboard
-The dashboard provides an interactive visual summary of the hospital emergency room data and helps identify important patterns and trends.
+* Microsoft Excel
+* Data Cleaning
+* Pivot Tables
+* Pivot Charts
+* Excel Functions
+* Data Visualization
 
-🔍 Key Insights
-The analysis helps understand:
-Patient volume and trends
-Waiting-time patterns
-Admission patterns
-Demographic distribution
-Emergency room performance
+## 📊 Dashboard Analysis
+
+The dashboard provides insights into:
+
+* 👥 Total number of patients
+* ⏱️ Average patient waiting time
+* 🏥 Admission vs. non-admission
+* 👨‍⚕️ Patient demographics
+* 📅 Patient visit trends
+* 📍 Referral/department analysis
+* 📈 Key emergency room performance indicators
+
+## 📂 Dataset
+
+The dataset used for this project is available for download here:
+
+**[Download Hospital Emergency Room Dataset]()**
+
+## 📈 Dashboard
+
+The interactive Excel dashboard summarizes the emergency room data through KPIs, charts, and visualizations, making it easier to identify patient trends and performance patterns.
+
+## 🎯 Skills Demonstrated
+
+**Excel | Data Cleaning | Data Analysis | Pivot Tables | Data Visualization | Dashboard Development**
